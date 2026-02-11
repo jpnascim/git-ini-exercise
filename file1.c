@@ -11,3 +11,5 @@ void func1(void)
         printf("JOIA\n");
     }
 }
+
+//This is the end of file
